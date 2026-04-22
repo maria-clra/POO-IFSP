@@ -1,4 +1,4 @@
-package a02ex003;
+package aula2.a02ex003;
 
 //3. Crie um programa que receba como argumento dois valores (utilize o vetor args[]) e
 //mostre o resto da divisão, produto e média entre esses valores (A02t03.java);
