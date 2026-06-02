@@ -1,0 +1,8 @@
+Escolha dois termos estudados nesta aula e faça um vídeo ensinando, como se fosse um professor, apresentação ou um seminário;
+O vídeo não precisa ter mais de 1 minuto. 
+
+
+Publique o vídeo no youtube (ou outra rede social) e envie o link usando a opção Seus trabalhos > Link;
+
+
+Termos: Classe, Modificador de acesso, Método, Objeto, Encapsulamento, Pacote, Herança, Polimorfismo e Interfaces.
