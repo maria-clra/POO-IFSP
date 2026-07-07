@@ -14,7 +14,7 @@ public class ProdutoDao {
     }
 
     public boolean alterar(Produto produto) {
-        return produto;
+        return true;
     }
 
     public List<Produto> buscar(String filtro) {

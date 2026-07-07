@@ -6,7 +6,7 @@ import model.Produto;
 public class A10ex01 {
     public static void main(String[] args) {
         Produto p = new Produto();
-        p.setNome('Teclado');
+        p.setNome("Teclado");
         p.setPreco(10f);
 
         ProdutoControlle pc = new ProdutoControlle();

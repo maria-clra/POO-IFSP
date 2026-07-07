@@ -1,7 +1,7 @@
 package aula10_MVC.model;
 
 public class Produto {
-    private String nome:
+    private String nome;
     private float preco;
 
     public Produto() {
@@ -21,7 +21,7 @@ public class Produto {
         this.nome = nome;
     }
 
-    public String getPreco() {
+    public float getPreco() {
         return preco;
     }
 
